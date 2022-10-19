@@ -1,4 +1,4 @@
-# Assignment 3 (Part 1): Task Completion Prediction
+# Task Completion Prediction
 
 <img src="https://www.techfunnel.com/wp-content/uploads/2019/01/Why-Human-Resources-Management-Is-Important-For-Every-Organization.jpg"
      width = "600"/>
