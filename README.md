@@ -7,4 +7,4 @@ This repo consists of 3 classification projects in completely different industri
   <li>Where as the third project is creating a loan approval automation.</li>
 </ui>
 <br>
-All the three datasets are alredy pretty much cleaned up, thus the main focus of this project is compairing the kNN and Logistic regression models. Dataset is received in CIS 508: Data Mining class (ASU-MSBA)
+All the three datasets are alredy pretty much cleaned up, thus the main focus of this project is compairing the kNN and Logistic regression models. Datasets are received in CIS 508: Data Mining class (ASU-MSBA)
