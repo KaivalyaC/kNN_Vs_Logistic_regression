@@ -17,7 +17,7 @@
 This is a prediction model for predicting task completion based on the data provided by the HR department of a company.
 
 <b>Brief background section</b>
-The dataset has 74 datapoints and has the following features:
+The dataset has 75 datapoints and has the following features:
 - Employee experience
 - Training level
 
