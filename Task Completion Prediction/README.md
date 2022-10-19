@@ -5,8 +5,6 @@
 
 # Problem Background and Motivation <a class="anchor" id="problem-background"></a>
 
-<img src='' width="700" />
-
 >- High level outline
 >- Brief background section
 >>- What is the problem?
