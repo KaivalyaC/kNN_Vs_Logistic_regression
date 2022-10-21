@@ -3,16 +3,7 @@
 <img src = 'https://img.jakpost.net/c/2018/08/07/2018_08_07_50869_1533633650._large.jpg'
      width = "550"/>
 
-# Table of Content: <a class="anchor" id="table-of-content"></a>
-* [1. Problem Background and Motivation](#problem-background)
-* [2. Libraries and Custom Functions](#import-packages)
-* [3. Data Exploration/Prep](#data-prep)
-* [4. Machine Learning Model](#ml-model)
-* [5. Deployment of Model](#model-deployment)
-
 # 1. Problem Background and Motivation <a class="anchor" id="problem-background"></a>
-
-<img src='' width="700" />
 
 >- High level outline
 >- Brief background section
