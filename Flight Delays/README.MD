@@ -11,8 +11,6 @@
 >>- Why is it important?
 >>- Who are the key stakeholders?
 
-* [Go to Top](#table-of-content)
-
 <b>High level outline:</b>
 This is a prediction model for predicting delays in flights for a commercial airline.
 
@@ -69,6 +67,3 @@ Also, the reasons for the delay is as mentioned below:
 
 > <b>Who are the key stakeholders?</b><br>
 Accurately predicting flight delays will help commercial airlines and passengers (indirectly). Airlines will be able to anticipate and plan for predicted delays. Passengers also stand to indirectly benefit from such prediction, as they will not have to waste time at the airport, but can instead come to the airport directly in time for the flight.
-
-
-* [Go to Top](#table-of-content)
